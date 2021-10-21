@@ -1,0 +1,13 @@
+#main{
+	margin: 50px;
+	padding: 15px;
+	border-radius: 5px;
+	background-color: #bef1fd;
+}
+#image{
+	max-width: 100px;
+	display: block;
+	height: auto;
+	margin: auto;
+}
+#img-div{}
